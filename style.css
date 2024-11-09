@@ -1,0 +1,102 @@
+body
+{
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+.profile
+{
+    margin-top: 200px;
+    width:175px;
+    margin-bottom:50px;
+    border-radius: 50%;
+
+}
+#welcome
+
+{
+    position: absolute;
+height: 800px;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background:linear-gradient(#8a1d0b 0%,#160804 100%);
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+.links {
+  float: left;
+  color: rgb(1, 7, 7);
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.links:hover{
+    background-color: white;
+    font-size: 25px;
+}
+h1{
+    font-family: "Sofia", cursive;
+}
+h2{
+    font-family: "Martel", serif;
+}
+#videos
+{
+    background:linear-gradient(#e87810 0%,#0d0803 100% ) ;
+}
+#img88{
+    height: 20;
+    width: 40;
+
+}
+.contact_h3{
+    display: inline;
+}
+.contact_1 a{
+    color: black;
+    text-shadow:none;
+}
+
+#aboutme 
+{
+
+    position: absolute;
+height: 800px;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background:linear-gradient(#6c0303 0%,#ef7d03 100%);
+}
+#interview
+{
+    position: absolute;
+height: 800px;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background:linear-gradient(#ef7d03 0%,#efe003 100%);
+}
+#contact
+{
+    position: absolute;
+height: 800px;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background:linear-gradient(#efe003 0%,#f6f4f4 100%);
+}
